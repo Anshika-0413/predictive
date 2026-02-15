@@ -54,7 +54,7 @@ This transformation produces a new random variable whose probability density fun
 
 ## Transformation Parameters
 
-Roll Number: YOUR_ROLL_NUMBER
+Roll Number: 102317059
 
 Example:
 
@@ -201,7 +201,7 @@ The generated distribution closely matches the real distribution, showing that G
 
 GAN-PDF-Estimation/
 
-│── GAN_PDF_Estimation_NO2.ipynb
+│── Assignment4.ipynb
 │── README.md
 
 ---
