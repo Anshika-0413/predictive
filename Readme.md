@@ -46,7 +46,7 @@ where:
 a_r = 0.5 × (r mod 7)
 b_r = 0.3 × ((r mod 5) + 1)
 
-r = Roll Number
+r = 102317059
 
 This transformation produces a new random variable whose probability density function must be learned.
 
@@ -58,8 +58,8 @@ Roll Number: YOUR_ROLL_NUMBER
 
 Example:
 
-a_r = VALUE
-b_r = VALUE
+a_r = 2.5
+b_r = 1.5
 
 These values are calculated using the roll number.
 
@@ -220,5 +220,5 @@ Google Colab
 
 ## Author
 
-Name: YOUR_NAME
-Roll Number: YOUR_ROLL_NUMBER
+Name: Anshika Ahuja
+Roll Number: 102317059
